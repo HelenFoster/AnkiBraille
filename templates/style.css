@@ -1,0 +1,16 @@
+.card {
+  font-family: arial;
+  font-size: 20px;
+  text-align: center;
+  color: black;
+  background-color: white;
+}
+
+.braille {
+  font-family: SimBraille, ghUBraille, Wingdings, D050000L, monospace;
+  font-size: 50px;
+}
+
+.meaning {
+  font-size: 30px;
+}
